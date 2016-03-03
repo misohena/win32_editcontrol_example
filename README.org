@@ -1,0 +1,8 @@
+* 概要
+Win32で作られた適当にテキストファイルを読み込んで表示するだけのプログラムです。
+
+インストーラのテンプレート([[https://github.com/misohena/innosetup_template][misohena/innosetup_template: My Inno Setup Template]])を作るときに適当なWin32アプリが必要だったので作りました。
+
+何らかのダミーのアプリが必要なときにどうぞ。
+
+[[file:example.ico][アイコン]]は256x256～16x16、32bpp～4bppまできちんと作ってあります。
